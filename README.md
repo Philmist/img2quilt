@@ -1,4 +1,4 @@
-# Make a quilt image from ordered numbered images.
+# Create a quilt image from ordered numbered images.
 
 ## Usage
 
